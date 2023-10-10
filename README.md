@@ -25,4 +25,4 @@ Goal of the case study You are required to model the probability of attrition us
 •	Predictive Modeling
 
 ## Analysis and Suggestions
-Check analysis and suggestion at 
+Check analysis and suggestion in Analysis and Suggestions.txt within a repository. 
