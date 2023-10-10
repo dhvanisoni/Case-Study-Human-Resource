@@ -1,4 +1,4 @@
-Analysis and Suggestions:
+## Analysis and Suggestions:
 
 1. Age is an important feature. People in the age 29 and 31 were most likely to leave. The company should be mindful of hiring people between the age of 18 - 20 as the graph shows that most of them don't stay long in the company.
 
