@@ -24,5 +24,6 @@ Goal of the case study You are required to model the probability of attrition us
 •	Machine Learning (Logistic Regression, Random Forest and ANN)
 •	Predictive Modeling
 
-## Analysis and Suggestions
+## Result and Evaluation
 Check analysis and suggestion in Analysis and Suggestions.txt within a repository. 
+In the context of predicting attrition rates, it has been observed that among three machine learning models employed, Logistic Regression demonstrated the highest level of accuracy, achieving a notable 87% accuracy rate. This finding underscores the efficacy of Logistic Regression in accurately predicting attrition rates, highlighting its potential as a robust tool for such predictive analytics tasks.
