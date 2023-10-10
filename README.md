@@ -24,6 +24,5 @@ Goal of the case study You are required to model the probability of attrition us
 •	Machine Learning (Logistic Regression, Random Forest and ANN)
 •	Predictive Modeling
 
-
-
-
+## Analysis and Suggestions
+Check analysis and suggestion at 
