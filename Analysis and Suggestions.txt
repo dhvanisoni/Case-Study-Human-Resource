@@ -1,0 +1,33 @@
+Analysis and Suggestions:
+
+1. Age is an important feature. People in the age 29 and 31 were most likely to leave. The company should be mindful of hiring people between the age of 18 - 20 as the graph shows that most of them don't stay long in the company.
+
+2. There are certain job roles that has high attrition rate as compared to other. Half people from sales representative left the company. Then lab technician job. On the other hand for research director nobody left. The reasons are their lower incomes which can be improved. We need to explore why. 
+
+3. People with lower level jobs (experience) often leave than someone with high experience with little to no attrition.
+
+4. Single employees leave a lot more.
+
+5. People who left the company typically had a lower job level and job level has a high correlation (0.95) with monthly income. The highest turnover rate was among
+sales representatives which is considered a low level job, so the company should work on creating more incentives for people at lower job levels to stay by:
+• creating more opportunities for growth
+• offering commission to high performing sales representatives
+
+6. Company could give more of contract type jobs to young minds as they tend to leave early as well as by giving contract based jobs more efficient work can be possible for
+the company point of view.
+
+7. Company should also see the candidates travelling history as it is seen that one who travels more are more likely to quit the job.
+
+8. Employees with low job involvement left the company more whereas Higher job involvement score leads to lower attrition rate. Company could improve employees' engagement.
+
+9. some correlation between the distance and the employees who actually stay or leave. By increasing in distance we have more employees who left.
+
+10. Years of employee with current manager: if we have a small number of years with the current manager,
+it seems that in general, employees tend to leave more.
+
+11. Total working hour: between zero and maybe seven years old, employees maybe tend to leave more work. However, as you go beyond that, the employees tend to stay as you increase the total working years, which again, makes sense.
+
+12. Lab technicians has the highest rate for leaving the jobs. Looking into the graphs of monthly salaries it looks like they are paid less compared to other job roles. Maybe the
+company can increase the average pay rate to hold the employees or provide better incentives. If possible, we can also look into the individual columns with these two job
+roles and see what are the job satisfaction level and Job Involvement to analyse the dissatisfaction level.
+
