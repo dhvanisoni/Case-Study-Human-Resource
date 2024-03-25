@@ -11,14 +11,14 @@ Hence, the management has contracted an HR analytics firm to understand what fac
 Goal of the case study You are required to model the probability of attrition using a logistic regression. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
 
 ## Problem Description: What we need to find and solve
-•	which employees in a company are more willing to leave or tend to basically leave the corporation.
-•	Why do employees want to leave? 
-•	Why do they want to stay? 
-•	How can we make them motivated?  
+•	which employees in a company are more willing to leave or tend to basically leave the corporation.\
+•	Why do employees want to leave?\
+•	Why do they want to stay?\
+•	How can we make them motivated?\
 •	What is the cost associated with basically employees leaving the company?
 
 ## Methods Used
-•	Data Analysis 
+•	Exploratory Data Analysis 
 •	Data Visualization
 •	Statistical Analysis
 •	Machine Learning (Logistic Regression, Random Forest and ANN)
